@@ -532,7 +532,8 @@ streamlink "https://www.myfreecams.com/models/model_username"
 
 **5. With Authentication:**
 ```bash
-streamlink --http-cookie "auth_token=YOUR_TOKEN" \
+# Use environment variable for security
+streamlink --http-cookie "auth_token=${MFC_AUTH_TOKEN}" \
            "https://www.myfreecams.com/models/model_username" \
            best -o output.mp4
 ```
@@ -1352,7 +1353,7 @@ class MFCConfig:
     RETRY_DELAY = 5
     NUM_WORKERS = 2
     DEFAULT_HEADERS = {
-        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36',
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
         'Referer': 'https://www.myfreecams.com/'
     }
 
