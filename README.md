@@ -1,10 +1,19 @@
-# myfreecams-downloader
+# MyFreeCams Video Downloader App (Browser Extension for Chrome, Firefox, Edge, Brave, Arc, Safari)
 
-This repository is being set up. README will be auto-generated soon.
 
-## Links
-- [Repository](https://serp.ly/myfreecams-downloader)
-- [GitHub Pages](https://serpapps.github.io/myfreecams-downloader)
+## 🔗 Links
+
+- 🎁 Get it [here](https://serp.ly/myfreecams-downloader)
+- ❓ Check FAQs [here](https://github.com/orgs/serpapps/discussions/categories/faq)
+- 🐛 Report bugs [here](https://github.com/serpapps/myfreecams-downloader/issues)
+- 🆕 Request features [here](https://github.com/serpapps/myfreecams-downloader/issues)
+
+## Resources
+
+- [Repository](https://github.com/serpapps/myfreecams-downloader)
+- [Gist]()
+- [How to download pornhub videos]()
+
 
 
 ---
