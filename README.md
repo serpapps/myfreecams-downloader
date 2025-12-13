@@ -3,5 +3,19 @@
 This repository is being set up. README will be auto-generated soon.
 
 ## Links
-- [Product Page](https://serp.ly/myfreecams-downloader)
+- [Repository](https://serp.ly/myfreecams-downloader)
 - [GitHub Pages](https://serpapps.github.io/myfreecams-downloader)
+
+
+---
+
+<details>
+
+<summary>
+  Research
+</summary>
+
+
+
+</details>
+
