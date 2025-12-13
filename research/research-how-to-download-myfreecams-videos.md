@@ -172,6 +172,8 @@ Some streams may include authentication tokens in the URL:
 https://video{server_id}.myfreecams.com/NxServer/ngrp:mfc_{model_id}.f4v_all/playlist.m3u8?token={auth_token}&expires={timestamp}
 ```
 
+**Security Note:** When authentication tokens appear in URLs, they may be logged in command history and system logs. For production implementations, consider using environment variables or secure credential management systems.
+
 **Private Shows:**
 Private shows use additional authentication:
 - Session cookies
@@ -401,6 +403,8 @@ ffmpeg -i "https://video123.myfreecams.com/NxServer/ngrp:mfc_100012345.f4v_all/p
        -bsf:a aac_adtstoasc \
        output.mp4
 ```
+
+**Security Note:** Tokens in command-line arguments may appear in process lists and shell history. For production use, consider passing URLs via file input or environment variables.
 
 **7. Continuous Recording with Retry:**
 ```bash
