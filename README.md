@@ -140,19 +140,19 @@ Start here: [https://serp.ly/myfreecams-video-downloader](https://serp.ly/myfree
 
 ## FAQ
 
-**Can I record MyFreeCams live streams**  
+**Can I record MyFreeCams live streams?**  
 Yes. Supported MyFreeCams live rooms can be recorded while they are active.
 
-**Can I download recordings too**  
+**Can I download recordings too?**  
 Yes. The extension supports supported recorded media on eligible pages.
 
-**What file format do downloads use**  
+**What file format do downloads use?**  
 Videos are saved as MP4 files.
 
-**Where are videos saved**  
+**Where are videos saved?**  
 They are saved to your default Downloads location, typically inside a MYFREECAMS subfolder.
 
-**Do I need extra software**  
+**Do I need extra software?**  
 No. Everything runs through the browser extension.
 
 ## Notes
