@@ -20,7 +20,7 @@ MyFreeCams Downloader is a browser extension for users who want to save supporte
 
 ## Preview
 
-![MyFreeCams Downloader workflow preview](assets/workflow-preview.svg)
+![MyFreeCams Downloader workflow preview](assets/workflow-preview.webp)
 
 ## Table of Contents
 
