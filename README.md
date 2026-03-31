@@ -12,7 +12,7 @@ MyFreeCams Downloader is a browser extension for users who want to save supporte
 
 ## Links
 
-- :rocket: Get it here: [MyFreeCams Downloader](https://serp.ly/myfreecams-video-downloader)
+- :rocket: Get it here: [MyFreeCams Downloader](https://serp.ly/myfreecams-downloader)
 - :new: Latest release: [GitHub Releases](https://github.com/serpapps/myfreecams-downloader/releases/latest)
 - :question: Help center: [SERP Help](https://help.serp.co/en/)
 - :beetle: Report bugs: [GitHub Issues](https://github.com/serpapps/myfreecams-downloader/issues)
@@ -127,7 +127,7 @@ The extension only works on media you can already open and play in your active b
 - No credit card required for the trial
 - Unlimited downloads are available with a paid license
 
-Start here: [https://serp.ly/myfreecams-video-downloader](https://serp.ly/myfreecams-video-downloader)
+Start here: [https://serp.ly/myfreecams-downloader](https://serp.ly/myfreecams-downloader)
 
 ## Installation Instructions
 
